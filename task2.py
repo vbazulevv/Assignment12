@@ -15,5 +15,3 @@ print(new_income)
 
 print("Second quarter:")
 print(new_income[:, 3:6])
-
-
